@@ -1,0 +1,27 @@
+C:\Users\Tori\source\repos\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.exe.config
+C:\Users\Tori\source\repos\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.exe
+C:\Users\Tori\source\repos\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.pdb
+C:\Users\Tori\source\repos\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.csprojAssemblyReference.cache
+C:\Users\Tori\source\repos\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.csproj.CoreCompileInputs.cache
+C:\Users\Tori\source\repos\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.exe
+C:\Users\Tori\source\repos\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.pdb
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.exe.config
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.exe
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.pdb
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.csprojAssemblyReference.cache
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.csproj.CoreCompileInputs.cache
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.exe
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.pdb
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data Structures\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.exe.config
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data Structures\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.exe
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data Structures\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.pdb
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data Structures\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.csprojAssemblyReference.cache
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data Structures\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.csproj.CoreCompileInputs.cache
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data Structures\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.exe
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data Structures\CMP1127M Assessment 3 - Vicotria Kotwicki\PrimeMinisterGame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.pdb
+C:\Users\Uthgurd 3.0\Computing\Uni projects\primeministergame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.exe.config
+C:\Users\Uthgurd 3.0\Computing\Uni projects\primeministergame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.exe
+C:\Users\Uthgurd 3.0\Computing\Uni projects\primeministergame\PrimeMinisterGame\bin\Debug\PrimeMinisterGame.pdb
+C:\Users\Uthgurd 3.0\Computing\Uni projects\primeministergame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.csproj.CoreCompileInputs.cache
+C:\Users\Uthgurd 3.0\Computing\Uni projects\primeministergame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.exe
+C:\Users\Uthgurd 3.0\Computing\Uni projects\primeministergame\PrimeMinisterGame\obj\Debug\PrimeMinisterGame.pdb

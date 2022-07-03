@@ -1,0 +1,13 @@
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\RGB_Converter\RGB_Converter\bin\Debug\RGB_Converter.exe.config
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\RGB_Converter\RGB_Converter\bin\Debug\RGB_Converter.exe
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\RGB_Converter\RGB_Converter\bin\Debug\RGB_Converter.pdb
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\RGB_Converter\RGB_Converter\obj\Debug\RGB_Converter.csproj.CoreCompileInputs.cache
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\RGB_Converter\RGB_Converter\obj\Debug\RGB_Converter.exe
+C:\Users\Tori\Desktop\Uni assignments\CMP1127M Programming and Data\RGB_Converter\RGB_Converter\obj\Debug\RGB_Converter.pdb
+C:\Users\Uthgurd 3.0\Desktop\Uni\Year1\CMP1127M Programming and Data Structures\CMP1127M Assessment 2 - Vicotria Kotwicki\RGB_Converter (now with 67% less code)\RGB_Converter\bin\Debug\RGB_Converter.exe.config
+C:\Users\Uthgurd 3.0\Desktop\Uni\Year1\CMP1127M Programming and Data Structures\CMP1127M Assessment 2 - Vicotria Kotwicki\RGB_Converter (now with 67% less code)\RGB_Converter\bin\Debug\RGB_Converter.exe
+C:\Users\Uthgurd 3.0\Desktop\Uni\Year1\CMP1127M Programming and Data Structures\CMP1127M Assessment 2 - Vicotria Kotwicki\RGB_Converter (now with 67% less code)\RGB_Converter\bin\Debug\RGB_Converter.pdb
+C:\Users\Uthgurd 3.0\Desktop\Uni\Year1\CMP1127M Programming and Data Structures\CMP1127M Assessment 2 - Vicotria Kotwicki\RGB_Converter (now with 67% less code)\RGB_Converter\obj\Debug\RGB_Converter.csprojAssemblyReference.cache
+C:\Users\Uthgurd 3.0\Desktop\Uni\Year1\CMP1127M Programming and Data Structures\CMP1127M Assessment 2 - Vicotria Kotwicki\RGB_Converter (now with 67% less code)\RGB_Converter\obj\Debug\RGB_Converter.csproj.CoreCompileInputs.cache
+C:\Users\Uthgurd 3.0\Desktop\Uni\Year1\CMP1127M Programming and Data Structures\CMP1127M Assessment 2 - Vicotria Kotwicki\RGB_Converter (now with 67% less code)\RGB_Converter\obj\Debug\RGB_Converter.exe
+C:\Users\Uthgurd 3.0\Desktop\Uni\Year1\CMP1127M Programming and Data Structures\CMP1127M Assessment 2 - Vicotria Kotwicki\RGB_Converter (now with 67% less code)\RGB_Converter\obj\Debug\RGB_Converter.pdb
